@@ -5,32 +5,32 @@ node_modules
 
 POST
 User signup
-https://personal-project-aikq.onrender.com//signup
+https://personal-project-aikq.onrender.com/signup
 
 GET
 Get User
-https://personal-project-aikq.onrender.com//user
+https://personal-project-aikq.onrender.com/user
 
 GET
 Get post
-https://personal-project-aikq.onrender.com//becomehost
+https://personal-project-aikq.onrender.com/becomehost
 
 POST
 New Host
-https://personal-project-aikq.onrender.com//becomehost
+https://personal-project-aikq.onrender.com/becomehost
 
 PUT
 Host Booking Calender
-https://personal-project-aikq.onrender.com//becomehost/648b167059e18bba6d8fee31
+https://personal-project-aikq.onrender.com/becomehost/648b167059e18bba6d8fee31
 
 GET
 Get Room
-https://personal-project-aikq.onrender.com//room/648b167059e18bba6d8fee31
+https://personal-project-aikq.onrender.com/room/648b167059e18bba6d8fee31
 
 POST
 Book Room
-https://personal-project-aikq.onrender.com//room/book/stays/648b167059e18bba6d8fee31
+https://personal-project-aikq.onrender.com/room/book/stays/648b167059e18bba6d8fee31
 
 GET
 QuickSearch
-https://personal-project-aikq.onrender.com//quicksearch?property_type=Beach House
+https://personal-project-aikq.onrender.com/quicksearch?property_type=Beach House
